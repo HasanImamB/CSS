@@ -1,0 +1,45 @@
+/* Basic Styling */
+body {
+    background-color: gray;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: yellow;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+th {
+    background-color: gray;
+}
+
+td {
+    background-color: white;
+    color: black;
+}
